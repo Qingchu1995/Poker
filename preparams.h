@@ -15,4 +15,17 @@ enum hierarchy_index
 	high_cards
 };
 
+enum player_ID {
+	player1,
+	player2,
+	player3,
+	player4,
+	player5,
+	player6,
+	player7,
+	player8,
+	player9,
+	playernum
+};
+
 #endif // !_PREPARAMS_H
